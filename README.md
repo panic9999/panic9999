@@ -1,0 +1,4 @@
+- 👋 Whats up, Im panic (Leon) and Im a Application Developer from Germany :)
+- 👀 I’m interested in C#, LUA, PHP, CPP and GIRLS
+- 🌱 I’m currently learning how to handle with Idiots
+- 📫 How to reach me (Discord: panic#9999)
