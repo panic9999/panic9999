@@ -1,5 +1,7 @@
 ### Hello ! I'm panic , a Junior Software Developer from Germany fighting for Security Systems and Applications on our Serverside in Business
-
+<style>
+a:hover{text-decoration:none;}
+</style>
  <div>
   <a href="https://github.com/panic9999">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panic9999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
