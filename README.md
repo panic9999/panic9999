@@ -1,13 +1,10 @@
 ### Hello ! I'm panic , a Junior Software Developer from Germany fighting for Security Systems and Applications on our Serverside in Business
-<style>
-a:hover{text-decoration:none;}
-</style>
  <div>
   <a href="https://github.com/panic9999">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=panic9999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panic9999&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block;text-decoration:none;"><br>
   <img align="center" alt="panic-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="panic-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="panic-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
