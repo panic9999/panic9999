@@ -21,8 +21,5 @@
   ##
  
 <div> 
- <a></a>
- 
-  ![Snake animation](https://ghostscripts.xyz/files/images/grid-snake.svg)
  
 </div>
