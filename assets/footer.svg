@@ -1,0 +1,23 @@
+<svg width="1000" height="80" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="neon" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7c3aed"/>
+      <stop offset="0.5" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+    <clipPath id="r"><rect width="1000" height="80" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#r)">
+    <rect width="1000" height="80" fill="#0a0a12"/>
+    <rect width="1000" height="3" fill="url(#neon)">
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="380 40; 380 35; 380 40" dur="3s" repeatCount="indefinite"/>
+      <path d="M -9 10 V -2 A 9 9 0 0 1 9 -2 V 10 L 6 7.5 L 3 10 L 0 7.5 L -3 10 L -6 7.5 Z" fill="#a855f7"/>
+      <circle cx="-3.2" cy="-1" r="1.6" fill="#0a0a12"/>
+      <circle cx="3.2" cy="-1" r="1.6" fill="#0a0a12"/>
+    </g>
+    <text x="404" y="46" font-family="Consolas, 'Courier New', monospace" font-size="15" fill="#9ca3af">// EOF — see you in the logs</text>
+  </g>
+</svg>
